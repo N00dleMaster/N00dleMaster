@@ -1,4 +1,4 @@
-# Greetings and salutations! I’m @N00dleMaster, currently a highschool student in Toronto, Canada.
+# Greetings and salutations! I’m @N00dleMaster, I'm an incoming student to UofT TrackOne Engineering, located in Toronto, Canada.
 
 I've only joined GitHub as of recent.
 
