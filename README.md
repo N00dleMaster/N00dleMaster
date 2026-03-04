@@ -1,16 +1,5 @@
-# Greetings and salutations! I’m @N00dleMaster, I'm an incoming student to UofT TrackOne Engineering, located in Toronto, Canada.
+# Greetings and salutations! I’m Ayaan.
 
-I am familiar with:
-  - Java
-  - JavaFX
-  - FXML
-  - SQL
-  - HTML
-  - CSS
-  - JS
-  - Node
-  - Express
-  - MongoDB
 
 📫 ***How to reach me:*** You can reach me by email at ayaan.path@gmail.com. I check my email regularly.
 
