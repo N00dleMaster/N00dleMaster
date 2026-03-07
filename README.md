@@ -74,8 +74,8 @@ Contributed to a self-forming multi-hop **LoRa** network for large-scale agricul
 - Enabled async cloud transmission to **AWS** via **MQTT** using **FreeRTOS** multithreading
 - Designed **LDO and load-switch circuits** for power management; ESP32 gateway ran off 2 AA batteries for months
 
-<img width="50%" alt="Screenshot 2026-03-07 151634" src="https://github.com/user-attachments/assets/cce432e1-d50a-45b6-97d4-1e3ece5ef0b2" />
-<img width="50%" alt="Screenshot 2026-03-07 151715" src="https://github.com/user-attachments/assets/1c7f85f1-5305-475b-a877-a13636d46ab8" />
+<img width="45%" alt="Screenshot 2026-03-07 151634" src="https://github.com/user-attachments/assets/cce432e1-d50a-45b6-97d4-1e3ece5ef0b2" />
+<img width="45%" alt="Screenshot 2026-03-07 151715" src="https://github.com/user-attachments/assets/1c7f85f1-5305-475b-a877-a13636d46ab8" />
 
 Adapted from [this paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.20365050.v1), to explain the protocol.
 
@@ -99,8 +99,8 @@ Designed a BMS for a 12V Li-ion pack with real-time SoC tracking and passive bal
 - Generated **OCV vs SoC** curve using **Coulomb-Counting**
 - Wrote firmware for **Kalman Filters**, balancing logic, and **Digital Twin** battery profiles via a **Hall current sensor**
 
-<img width="50%" height="350" alt="image" src="https://github.com/user-attachments/assets/a86457cb-35d0-49fc-9eac-2ccbb727ab59" />
-<img width="50%" height="350" alt="image" src="https://github.com/user-attachments/assets/fac1865e-2639-49fd-bd6a-bb56210fd31d" />
+<img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/a86457cb-35d0-49fc-9eac-2ccbb727ab59" />
+<img width="45%" height="350" alt="image" src="https://github.com/user-attachments/assets/fac1865e-2639-49fd-bd6a-bb56210fd31d" />
 <img width="1347" height="500" alt="image" src="https://github.com/user-attachments/assets/3ddc46f7-0ec0-42ad-8d16-2658f0b30936" />
 <img width="1390" height="922" alt="image" src="https://github.com/user-attachments/assets/08c64106-c597-424f-aa0f-c0bc1d0a02c5" />
 
