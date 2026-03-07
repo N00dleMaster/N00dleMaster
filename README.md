@@ -10,7 +10,7 @@ I'm soon to enter my final year of study, set to graduate with with an Undergrad
 # Experience
 
 ### Robotics Software Developer — SEW Eurodrive
-`May 2025 – Present`
+`May 2025 – May 2026 (tentative)`
 
 Bringing AGVs closer to full autonomy in industrial warehouse environments.
 
@@ -19,15 +19,9 @@ Bringing AGVs closer to full autonomy in industrial warehouse environments.
 - Validated the full stack in **Gazebo/RViz**, then successfully deployed on a live AGV in a cold storage facility
 - Modified **PLC logic (Structured Text)** to integrate obstacle avoidance output into AGV motion control
 
-![Picture1](https://github.com/user-attachments/assets/39dc2255-c875-40a2-8681-044874eeadf2)
+
 <img width="459" height="294" alt="image" src="https://github.com/user-attachments/assets/9107ee8a-d025-459a-be3a-d2f9f362cb95" />
 <img width="878" height="424" alt="image" src="https://github.com/user-attachments/assets/b641025a-468c-445b-b367-66e4365bbaef" />
-
-
-
-| Simulation | Deployment |
-|:---:|:---:|
-| ![Gazebo/RViz simulation](REPLACE_WITH_YOUR_SIMULATION_IMAGE) | ![AGV in warehouse](REPLACE_WITH_YOUR_AGV_IMAGE) |
 
 ---
 
@@ -41,9 +35,13 @@ Led controls and firmware for a fully autonomous formula car competing at FSAE.
 - Developed firmware on **ARM Cortex M7** for autonomous state machine, interfacing over **CANbus, I2C, UART, SPI**
 - Tuned **PID controllers** for steering, hydraulic brakes, and the main electric drive motor
 
-| Autonomous Run | Car Setup |
-|:---:|:---:|
-| ![FSAE autonomous run](REPLACE_WITH_YOUR_FSAE_ACTION_IMAGE) | ![Car setup](REPLACE_WITH_YOUR_FSAE_SETUP_IMAGE) |
+
+![IMG_5676](https://github.com/user-attachments/assets/7e2b3325-f12f-4947-a85e-ccd779a1fcd7)
+<img width="3442" height="1930" alt="Screenshot 2026-03-07 142259" src="https://github.com/user-attachments/assets/3b5812c4-2b83-4804-82a9-f9033c0e82d2" />
+![IMG_4734](https://github.com/user-attachments/assets/2cefe8e3-7799-42cc-840e-ecbb377514e7)
+<video src="https://github.com/user-attachments/assets/46111e70-5f95-4a31-a63a-701ec362da08" width="600" controls></video>
+
+
 
 ---
 
