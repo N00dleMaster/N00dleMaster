@@ -21,10 +21,13 @@ Bringing AGVs closer to full autonomy in industrial warehouse environments.
 
 
 <img width="459" height="294" alt="image" src="https://github.com/user-attachments/assets/9107ee8a-d025-459a-be3a-d2f9f362cb95" />
-
 <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/b641025a-468c-445b-b367-66e4365bbaef" />
 
+Examples of some path planning output, bound within "corridors" - part of the VDA5050 specification for sending AGVs commands.
+
 <video src="https://github.com/user-attachments/assets/85b69c1a-2e2d-4580-ac71-1ecf7b14c726" controls></video>
+
+The first time we fully integrated obstacle avoidance functionality into an order! I was evidently quite excited.
 
 
 ---
@@ -39,10 +42,16 @@ Led controls and firmware for a fully autonomous formula car competing at FSAE.
 - Developed firmware on **ARM Cortex M7** for autonomous state machine, interfacing over **CANbus, I2C, UART, SPI**
 - Tuned **PID controllers** for steering, hydraulic brakes, and the main electric drive motor
 
-
 ![IMG_5676](https://github.com/user-attachments/assets/7e2b3325-f12f-4947-a85e-ccd779a1fcd7)
+
+The testing day on which our car ran driverless for the first time! We are the first Canadian team to run Driverless events at competition!
+
 <img width="3442" height="1930" alt="Screenshot 2026-03-07 142259" src="https://github.com/user-attachments/assets/3b5812c4-2b83-4804-82a9-f9033c0e82d2" />
+
 ![IMG_4734](https://github.com/user-attachments/assets/2cefe8e3-7799-42cc-840e-ecbb377514e7)
+
+Our full HIL (Hardware-in-the-Loop) test bench. This incorporated our SCS (safety critical signals), RES (Remote Emergency Stop), and our braking + steering-by-wire systems. It was run and fully actuated in parallel to simulation.
+
 <img width="2798" height="1082" alt="Screenshot 2026-03-07 163937" src="https://github.com/user-attachments/assets/0ab0da5f-fa66-411e-a591-b1da6ad029c8" />
 <video src="https://github.com/user-attachments/assets/46111e70-5f95-4a31-a63a-701ec362da08" width="600" controls></video>
 
