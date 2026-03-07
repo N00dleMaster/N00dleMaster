@@ -21,7 +21,11 @@ Bringing AGVs closer to full autonomy in industrial warehouse environments.
 
 
 <img width="459" height="294" alt="image" src="https://github.com/user-attachments/assets/9107ee8a-d025-459a-be3a-d2f9f362cb95" />
-<img width="878" height="424" alt="image" src="https://github.com/user-attachments/assets/b641025a-468c-445b-b367-66e4365bbaef" />
+
+<img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/b641025a-468c-445b-b367-66e4365bbaef" />
+
+<video src="https://github.com/user-attachments/assets/85b69c1a-2e2d-4580-ac71-1ecf7b14c726" controls></video>
+
 
 ---
 
@@ -39,11 +43,35 @@ Led controls and firmware for a fully autonomous formula car competing at FSAE.
 ![IMG_5676](https://github.com/user-attachments/assets/7e2b3325-f12f-4947-a85e-ccd779a1fcd7)
 <img width="3442" height="1930" alt="Screenshot 2026-03-07 142259" src="https://github.com/user-attachments/assets/3b5812c4-2b83-4804-82a9-f9033c0e82d2" />
 ![IMG_4734](https://github.com/user-attachments/assets/2cefe8e3-7799-42cc-840e-ecbb377514e7)
+<img width="2798" height="1082" alt="Screenshot 2026-03-07 163937" src="https://github.com/user-attachments/assets/0ab0da5f-fa66-411e-a591-b1da6ad029c8" />
 <video src="https://github.com/user-attachments/assets/46111e70-5f95-4a31-a63a-701ec362da08" width="600" controls></video>
 
 
 
 ---
+
+
+### CottonCandy — LoRa Sensor Network
+`May 2024 - August 2024`
+
+Contributed to a self-forming multi-hop **LoRa** network for large-scale agricultural sensing.
+
+- Built the downlink module on **Atmega328** for soil/air quality data collection across square kilometres
+- Enabled async cloud transmission to **AWS** via **MQTT** using **FreeRTOS** multithreading
+- Designed **LDO and load-switch circuits** for power management; ESP32 gateway ran off 2 AA batteries for months
+<img width="651" height="531" alt="Screenshot 2026-03-07 151634" src="https://github.com/user-attachments/assets/cce432e1-d50a-45b6-97d4-1e3ece5ef0b2" />
+<img width="303" height="348" alt="Screenshot 2026-03-07 151715" src="https://github.com/user-attachments/assets/1c7f85f1-5305-475b-a877-a13636d46ab8" />
+
+Adapted from [this paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.20365050.v1), to explain the protocol.
+
+<img width="2004" height="1418" alt="Screenshot 2026-03-07 152026" src="https://github.com/user-attachments/assets/c23db1b9-f189-4c08-a635-d2985dda3d0a" />
+
+The uplink gateway (above schematic) was built in collaboration with a [capstone team](https://github.com/wintrmut3/ECE496Hardware).
+
+---
+
+
+
 
 ## Projects
 
@@ -56,20 +84,16 @@ Designed a BMS for a 12V Li-ion pack with real-time SoC tracking and passive bal
 - Generated **OCV vs SoC** curve using **Coulomb-Counting**
 - Wrote firmware for **Kalman Filters**, balancing logic, and **Digital Twin** battery profiles via a **Hall current sensor**
 
-![BMS PCB](REPLACE_WITH_YOUR_BMS_IMAGE)
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/a86457cb-35d0-49fc-9eac-2ccbb727ab59" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/fac1865e-2639-49fd-bd6a-bb56210fd31d" />
+<img width="1347" height="500" alt="image" src="https://github.com/user-attachments/assets/3ddc46f7-0ec0-42ad-8d16-2658f0b30936" />
+<img width="1390" height="922" alt="image" src="https://github.com/user-attachments/assets/08c64106-c597-424f-aa0f-c0bc1d0a02c5" />
 
----
+We used the **Chroma 17020 Cell Cycler** to characterize our batteries as an RC circuit.
 
-### CottonCandy — LoRa Sensor Network
-`FreeRTOS · Atmega328 · ESP32 · MQTT`
 
-Contributed to a self-forming multi-hop **LoRa** network for large-scale agricultural sensing.
 
-- Built the downlink module on **Atmega328** for soil/air quality data collection across square kilometres
-- Enabled async cloud transmission to **AWS** via **MQTT** using **FreeRTOS** multithreading
-- Designed **LDO and load-switch circuits** for power management; ESP32 gateway ran off 2 AA batteries for months
 
-![CottonCandy deployment](REPLACE_WITH_YOUR_COTTONCANDY_IMAGE)
 
 ---
 
