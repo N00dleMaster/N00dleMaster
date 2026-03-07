@@ -53,7 +53,12 @@ The testing day on which our car ran driverless for the first time! We are the f
 Our full HIL (Hardware-in-the-Loop) test bench. This incorporated our SCS (safety critical signals), RES (Remote Emergency Stop), and our braking + steering-by-wire systems. It was run and fully actuated in parallel to simulation.
 
 <img width="2798" height="1082" alt="Screenshot 2026-03-07 163937" src="https://github.com/user-attachments/assets/0ab0da5f-fa66-411e-a591-b1da6ad029c8" />
+
+One of our vehicle controllers. It houses many Driverless-related circuitry, which we had to help design, debug, and solder.
+
 <video src="https://github.com/user-attachments/assets/46111e70-5f95-4a31-a63a-701ec362da08" width="600" controls></video>
+
+Linear Time-Variant Model Predictive Control running in simulation.
 
 
 
