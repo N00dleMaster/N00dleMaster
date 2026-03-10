@@ -25,7 +25,7 @@ Bringing AGVs closer to full autonomy in industrial warehouse environments.
 
 Examples of some path planning output, bound within "corridors" - part of the VDA5050 specification for sending AGVs commands.
 
-<video src="https://github.com/user-attachments/assets/85b69c1a-2e2d-4580-ac71-1ecf7b14c726" controls></video>
+<video muted src="https://github.com/user-attachments/assets/85b69c1a-2e2d-4580-ac71-1ecf7b14c726" controls></video>
 
 The first time we fully integrated obstacle avoidance functionality into an order! I was evidently quite excited.
 
